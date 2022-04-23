@@ -10,7 +10,7 @@
             "time": "30 9,20 * * *",
             "job": {
                 "type": "runjs",
-                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_kkz.js"
+                "target": "https://raw.githubusercontent.com/pkusocold/ltc2019JavaScript/main/jctq/jctq_kkz.js"
             },
             "running": true
         },
@@ -20,7 +20,7 @@
             "time": "20 7,18 * * *",
             "job": {
                 "type": "runjs",
-                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_read.js"
+                "target": "https://raw.githubusercontent.com/pkusocold/ltc2019JavaScript/main/jctq/jctq_read.js"
             },
             "running": true
         },
@@ -30,7 +30,7 @@
             "time": "15,45 * * * *",
             "job": {
                 "type": "runjs",
-                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_daily.js"
+                "target": "https://raw.githubusercontent.com/pkusocold/ltc2019JavaScript/main/jctq/jctq_daily.js"
             },
             "running": true
         },
@@ -40,7 +40,7 @@
             "time": "30 22 * * *",
             "job": {
                 "type": "runjs",
-                "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_reward.js"
+                "target": "https://raw.githubusercontent.com/pkusocold/ltc2019JavaScript/main/jctq/jctq_reward.js"
             },
             "running": true
         }
